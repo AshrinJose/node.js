@@ -1,0 +1,19 @@
+{
+  "name": "UserMgmnt-Node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashrin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "moment": "^2.23.0",
+    "mysql": "^2.16.0",
+    "uuid": "^3.3.2"
+  }
+}
