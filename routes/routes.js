@@ -31,7 +31,7 @@ module.exports = app => {
         let response = {};
         try {
             console.log('fetching users....');
-            const result = await getData(req.transactionId, "SELECT * FROM SD_USERMASTER", []);
+            const result = await getData(req.transactionId, "SELECT * FROM USERMASTER", []);
 
             const actions = result.map(act => new UserAction(act));
 
