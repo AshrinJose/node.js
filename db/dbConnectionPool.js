@@ -7,7 +7,7 @@ const dbConnectionInfo = {
       user: "ashRose",
       password: "ashRose",
       connectionLimit: 5, //mysql connection pool length
-      database: "USERMGMNT_V2"
+      database: "Demo"
     }
 
 const dbconnection = mysql.createPool(
