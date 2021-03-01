@@ -1,7 +1,7 @@
 {
-    "name": "UserMgmnt_BL",
+    "name": "Sample Project",
     "version": "0.1.0",
-    "description": "apiDoc for UserMgmnt_BL",
-    "title": "apiDoc- UserMgmnt_BL",
+    "description": "apiDoc for Sample Project",
+    "title": "apiDoc- Sample Project",
     "url": "http://localhost:5001"
 }
